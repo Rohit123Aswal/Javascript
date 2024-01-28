@@ -58,7 +58,7 @@ let cities = ["Mumbai", "Hydrabad", "Delhi", "Kerala"];
 // }
 
 
-let MarvelHeros = ["Bent10", "IronMan", "Superman", "Batman", "Aqauman", "Antman"]
+// let MarvelHeros = ["Bent10", "IronMan", "Superman", "Batman", "Aqauman", "Antman"]
 // console.log(MarvelHeros);
 
 // console.log(MarvelHeros.slice(2, 3));
@@ -66,7 +66,7 @@ let MarvelHeros = ["Bent10", "IronMan", "Superman", "Batman", "Aqauman", "Antman
 
 // splice(add,remove,replace)
 
-let arr = [1, 2, 3, 4, 5, 6, 7, 8]
+// let arr = [1, 2, 3, 4, 5, 6, 7, 8];
 
 // arr.splice(2,2,101,102);
 // console.log(arr);
@@ -97,3 +97,44 @@ let arr = [1, 2, 3, 4, 5, 6, 7, 8]
 // console.log(companies);
 // companies.unshift("Amazon")  // unshift is used to add the  element in the starting of array
 // console.log(companies);
+
+
+// +++++++++++++++++++++++Functions++++++++++++++++++++
+
+
+// function Myfunction(msg){
+//     console.log(msg);
+// }
+
+// Myfunction("I love Coding", );
+
+// function sum(a, b) {
+//     total = a + b;
+//     console.log("before return");
+//     return total;
+// }
+// let val = sum(10, 13);
+
+// console.log(val);
+
+
+
+
+//++++++++Arrow Function++++++++ 
+
+// function sum(a,b){
+// return sum;
+// }
+
+// const arrowSum = (a, b) => {
+//     console.log(a + b);
+
+// }
+
+// arrowSum(233, 7);
+
+// const arrowmul = (c, d) => {
+//     console.log(c * d);
+// }
+// arrowmul(45, 2);
+

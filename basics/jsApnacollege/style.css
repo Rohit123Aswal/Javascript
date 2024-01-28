@@ -1,0 +1,26 @@
+/* .content{
+    color: red;
+}
+
+.newClass{
+    background-color: green;
+} */
+
+/* div {
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 1px solid black;
+    color: white;
+} */
+
+.dark{
+    background-color: black;
+    color: white;
+
+}
+
+.light{
+    background-color: white;
+    color: black;
+}
